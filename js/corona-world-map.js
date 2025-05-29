@@ -127,7 +127,7 @@ function mapDate(updateDate) {
 // Asynchronous load for country data
 function loadCountryData() {
     // Load country data via async request, then startup map init
-    var url = '../src/country-data.json';
+    var url = 'SVG-World-Map/src/country-data.json';
     loadFile(url, function(response) {
         countryData = JSON.parse(response); 
         loadVirusData(); // Load virus data after country data is conplete
