@@ -32,7 +32,7 @@ var svgWorldMap = (function() {
     // Default options
     var options = {
         // Base path 
-        libPath: 'SVG-World-Map/src/', // Point to library folder, e.g. (http[s]:)//myserver.com/map/src/
+        libPath: 'src/', // Point to library folder, e.g. (http[s]:)//myserver.com/map/src/
         // Basic options
         bigMap: true, // Set to 'false' to load small map without provinces
         showOcean: true, // Show or hide ocean layer
