@@ -6,16 +6,16 @@ SVG World Map JS
 
 
 ## Demos
-[https://boubkhaled.github.io/SVG-World-Map/basics.html](basics.html)
-[https://boubkhaled.github.io/SVG-World-Map/corona-world-map.html](corona-world-map.html)
-[https://boubkhaled.github.io/SVG-World-Map/custom-callbacks.html](custom-callbacks.html)
-[https://boubkhaled.github.io/SVG-World-Map/custom-data.html](custom-data.html)
-[https://boubkhaled.github.io/SVG-World-Map/custom-options.html](custom-options.html)
-[https://boubkhaled.github.io/SVG-World-Map/custom-shapes-images.html](custom-shapes-images.html)
-[https://boubkhaled.github.io/SVG-World-Map/groups-callbacks-zoom.html](groups-callbacks-zoom.html)
-[https://boubkhaled.github.io/SVG-World-Map/time-animation.html](time-animation.html)
-[https://boubkhaled.github.io/SVG-World-Map/wikipedia-data-animation.html](wikipedia-data-animation.html)
-[https://boubkhaled.github.io/SVG-World-Map/wikipedia-data.html](wikipedia-data.html)
+- [https://boubkhaled.github.io/SVG-World-Map/basics.html](basics.html)
+- [https://boubkhaled.github.io/SVG-World-Map/corona-world-map.html](corona-world-map.html)
+- [https://boubkhaled.github.io/SVG-World-Map/custom-callbacks.html](custom-callbacks.html)
+- [https://boubkhaled.github.io/SVG-World-Map/custom-data.html](custom-data.html)
+- [https://boubkhaled.github.io/SVG-World-Map/custom-options.html](custom-options.html)
+- [https://boubkhaled.github.io/SVG-World-Map/custom-shapes-images.html](custom-shapes-images.html)
+- [https://boubkhaled.github.io/SVG-World-Map/groups-callbacks-zoom.html](groups-callbacks-zoom.html)
+- [https://boubkhaled.github.io/SVG-World-Map/time-animation.html](time-animation.html)
+- [https://boubkhaled.github.io/SVG-World-Map/wikipedia-data-animation.html](wikipedia-data-animation.html)
+- [https://boubkhaled.github.io/SVG-World-Map/wikipedia-data.html](wikipedia-data.html)
 
 ![](https://raphaellepuschitz.github.io/SVG-World-Map/demo/img/svg-world-map.png)  
 
